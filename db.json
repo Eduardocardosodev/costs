@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "name": "Projeto atualizado",
+      "budget": "13002",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 399,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "Amazon",
+      "budget": "25000",
+      "category": {
+        "id": "4",
+        "name": "Planning"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "teste",
+      "budget": "12331",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 1999,
+      "services": [
+        {
+          "name": "contratar dev PHP",
+          "cost": "499",
+          "description": "Vai criar a funcao de envio de emails",
+          "id": "f5760302-80f3-42f6-81ed-459920e32555"
+        },
+        {
+          "name": "contratar dev frontend",
+          "cost": "1500",
+          "description": "para inclemnetar a logica",
+          "id": "c38de5ba-aaa6-4f9d-83c3-fa70c1ae4fe2"
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Development"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planning"
+    }
+  ]
+}
